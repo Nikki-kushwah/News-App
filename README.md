@@ -6,7 +6,7 @@ using NewsAPI and displays them in a clean Tkinter interface.
 ## Tech Stack
 - Python
 - Tkinter (GUI)
-- RestAPI
+- NewsAPI
 - Requests library
 
 ## How to Run
